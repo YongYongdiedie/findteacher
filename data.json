@@ -1,0 +1,626 @@
+[
+  {
+    "name": "Andrew",
+    "id": "468 433 8928",
+    "password": "1234",
+    "url": "https://us04web.zoom.us/j/4684338928?pwd=a2pSVW51YlNJOVByTXdkR1E1Kzh5Zz09",
+    "platform": "zoom",
+    "name_normalized": "Andrew"
+  },
+  {
+    "name": "Arthur",
+    "id": "829 798 8855",
+    "password": "zeM3TM",
+    "url": "https://us05web.zoom.us/j/8297988855?pwd=bmMrVzEvL0dmSUlwRnZnUmFKMjFQUT09",
+    "platform": "zoom",
+    "name_normalized": "Arthur"
+  },
+  {
+    "name": "Daniel",
+    "id": "968 679 4461",
+    "password": "5afur7",
+    "url": "https://us05web.zoom.us/j/9686794461?pwd=NLN5O95ozM9Olh4iXiXlNgH4Gdku4j.1",
+    "platform": "zoom",
+    "name_normalized": "Daniel"
+  },
+  {
+    "name": "Drew",
+    "id": "479 893 0325",
+    "password": "qS2nc6",
+    "url": "https://us05web.zoom.us/j/4798930325?pwd=eZw45Yp4UhQ3ycUOOAM0s4yKA48bjb.1",
+    "platform": "zoom",
+    "name_normalized": "Drew"
+  },
+  {
+    "name": "Emily",
+    "id": "592 380 1254",
+    "password": "qZX0Yb",
+    "url": "https://zoom.us/j/5923801254?pwd=ex5YBGoBaT2cKhy0yb8CeaZCcYZm9W.1",
+    "platform": "zoom",
+    "name_normalized": "Emily"
+  },
+  {
+    "name": "Gareth",
+    "id": "592 380 1254",
+    "password": "rwf132",
+    "url": "https://us04web.zoom.us/j/9862405913?pwd=khwGhzwvZxnmFxnlFa7c7NWJKezjbx.1",
+    "platform": "zoom",
+    "name_normalized": "Gareth"
+  },
+  {
+    "name": "Hang",
+    "id": "990 261 8692",
+    "password": "12345",
+    "url": "https://us05web.zoom.us/j/9902618692?pwd=9R8ppx552ZUeKluktVjpQQAkZnmGZa.1",
+    "platform": "zoom",
+    "name_normalized": "Hang"
+  },
+  {
+    "name": "Hannah",
+    "id": "898 8043 2696",
+    "password": "FL5U56",
+    "url": "https://us05web.zoom.us/j/89880432696?pwd=7veUqcVWwIVTevplJz5qZl7JI7sZHE.1",
+    "platform": "zoom",
+    "name_normalized": "Hannah"
+  },
+  {
+    "name": "Hien 1",
+    "id": "322 725 2906",
+    "password": "12345",
+    "url": "https://us04web.zoom.us/j/3227252906?pwd=YZXOUo1Imn4IdboQDb1JdV7H3NNF8a.1",
+    "platform": "zoom",
+    "name_normalized": "Hien 1"
+  },
+  {
+    "name": "Hien 2",
+    "id": "865 477 5909",
+    "password": "12345",
+    "url": "https://us05web.zoom.us/j/8654775909?pwd=aZqrvTjEXpEZN4TCCMYkM3awB5OaUV.1",
+    "platform": "zoom",
+    "name_normalized": "Hien 2"
+  },
+  {
+    "name": "ID : 925 114 6195",
+    "id": "925 114 6195",
+    "password": "54ze4q",
+    "url": "https://zoom.us/j/9251446195?pwd=rFVUoW9bXXDbjfbq8EqakMvywPRZJg.1",
+    "platform": "zoom",
+    "name_normalized": "ID : 925 114 6195"
+  },
+  {
+    "name": "Jammil(영)",
+    "id": "227 648 7670",
+    "password": "z1LBui",
+    "url": "https://us04web.zoom.us/j/2276487670?pwd=0Wt6fz891c7GwDbPtqBcJWNuJI5Kq1.1",
+    "platform": "zoom",
+    "name_normalized": "Jammil"
+  },
+  {
+    "name": "Kim",
+    "id": "318 059 4887",
+    "password": "7uJ4a8",
+    "url": "https://us05web.zoom.us/j/3180594887?pwd=aHSHFPygrRP3Fz9U3f0hng4wsuVRWW.1",
+    "platform": "zoom",
+    "name_normalized": "Kim"
+  },
+  {
+    "name": "Mark",
+    "id": "683 489 3899",
+    "password": "Dk6YUp",
+    "url": "https://us05web.zoom.us/j/6834893899?pwd=K3NLUmYwMFNFR24rUGhhTkEzR2xnUT09",
+    "platform": "zoom",
+    "name_normalized": "Mark"
+  },
+  {
+    "name": "Murray",
+    "id": "990 747 8340",
+    "password": "kqr4ht",
+    "url": "https://us06web.zoom.us/meetings/9907478340/invitations?signature=4BrCu3UzH3nA8AIqQihL",
+    "platform": "zoom",
+    "name_normalized": "Murray"
+  },
+  {
+    "name": "My(벳)",
+    "id": "510 054 1435",
+    "password": "12345",
+    "url": "https://us05web.zoom.us/j/5100541435?pwd=lmFSKEESghbO9vOEdJIbT1hE3siXNA.1",
+    "platform": "zoom",
+    "name_normalized": "My"
+  },
+  {
+    "name": "Van(벳)",
+    "id": "341 992 9237",
+    "password": "12345",
+    "url": "https://zoom.us/j/3419929237?pwd=snQKbiiwtpmxbwMHWvr0RavFDsMDNv.1",
+    "platform": "zoom",
+    "name_normalized": "Van"
+  },
+  {
+    "name": "고호근",
+    "id": "없음",
+    "password": "없음",
+    "url": "https://meet.google.com/uaj-vdfo-piv",
+    "platform": "meet",
+    "name_normalized": "고호근"
+  },
+  {
+    "name": "권미향",
+    "id": "608 830 5624",
+    "password": "kish2025",
+    "url": "https://us05web.zoom.us/j/6088305624?pwd=mK8BCE7oOaUJjjc6upaHcYqDGCi4be.1",
+    "platform": "zoom",
+    "name_normalized": "권미향"
+  },
+  {
+    "name": "김겸",
+    "id": "없음",
+    "password": "없음",
+    "url": "https://meet.google.com/web-ehwf-xjn",
+    "platform": "meet",
+    "name_normalized": "김겸"
+  },
+  {
+    "name": "김광원",
+    "id": "없음",
+    "password": "없음",
+    "url": "https://meet.google.com/znr-fvrm-nco",
+    "platform": "meet",
+    "name_normalized": "김광원"
+  },
+  {
+    "name": "김대웅",
+    "id": "396 201 8398",
+    "password": "07dGjf",
+    "url": "https://us04web.zoom.us/j/3962018398?pwd=bENaZXpuVlpac2lQcFlPWVhRL0UrQT09",
+    "platform": "zoom",
+    "name_normalized": "김대웅"
+  },
+  {
+    "name": "김도원",
+    "id": "없음",
+    "password": "없음",
+    "url": "https://meet.google.com/teo-xpkj-bmu",
+    "platform": "meet",
+    "name_normalized": "김도원"
+  },
+  {
+    "name": "김미혜(음)",
+    "id": "705 963 2629",
+    "password": "5vx2Z2",
+    "url": "https://us05web.zoom.us/j/7059632629?pwd=bVJZbmxwcDdyR3A1QUthTkhVNUtLZz09",
+    "platform": "zoom",
+    "name_normalized": "김미혜"
+  },
+  {
+    "name": "김성태",
+    "id": "없음",
+    "password": "없음",
+    "url": "https://meet.google.com/fjs-ijwh-prf",
+    "platform": "meet",
+    "name_normalized": "김성태"
+  },
+  {
+    "name": "김수정",
+    "id": "870 963 7473",
+    "password": "B21cuj",
+    "url": "https://us04web.zoom.us/j/8709637473?pwd=FalbXkt6qC0Ud17hGnyCQzXfr8QGyl.1",
+    "platform": "zoom",
+    "name_normalized": "김수정"
+  },
+  {
+    "name": "김애라",
+    "id": "265 414 5585",
+    "password": "2005",
+    "url": "https://us04web.zoom.us/j/2654145585?pwd=Y6gWsmjqiO7NjJ1JhXIPCmpQMT6yup.1",
+    "platform": "zoom",
+    "name_normalized": "김애라"
+  },
+  {
+    "name": "김영한",
+    "id": "732 518 4913",
+    "password": "2025",
+    "url": "https://us05web.zoom.us/j/7325184913?pwd=MUAmfrucwY4BBWPub6cLdO3yS9aiBX.1",
+    "platform": "zoom",
+    "name_normalized": "김영한"
+  },
+  {
+    "name": "김영훈",
+    "id": "290 235 6512",
+    "password": "12345",
+    "url": "https://us04web.zoom.us/j/2902356512?pwd=9vNrrjbBVaYBhHVtQ3gCcXyZkbbTkz.1&omn=7209",
+    "platform": "zoom",
+    "name_normalized": "김영훈"
+  },
+  {
+    "name": "김인교",
+    "id": "607 481 9882",
+    "password": "timk4Z",
+    "url": "https://zoom.us/j/6074819882?pwd=oWPR4VBuihAMBOOhaD5GbMRQ9oHLDa.1",
+    "platform": "zoom",
+    "name_normalized": "김인교"
+  },
+  {
+    "name": "김지민",
+    "id": "868 663 2100",
+    "password": "1111",
+    "url": "https://us05web.zoom.us/j/8686632100?pwd=iM500E1bRlQMRiDuQKWwfspxazgpMU.1",
+    "platform": "zoom",
+    "name_normalized": "김지민"
+  },
+  {
+    "name": "김현주",
+    "id": "965 7126 3411",
+    "password": "12345678",
+    "url": "https://zoom.us/j/96571263411?pwd=zBwgaaZuEByiWW2nOoNib7rbCeemdq.1",
+    "platform": "zoom",
+    "name_normalized": "김현주"
+  },
+  {
+    "name": "김현주",
+    "id": "549 492 7986",
+    "password": "2025",
+    "url": "https://us06web.zoom.us/j/5494927986?pwd=YsMvvXh3HQljxIfSvS5JsCES9dLm3C.1",
+    "platform": "zoom",
+    "name_normalized": "김현주"
+  },
+  {
+    "name": "김형서",
+    "id": "423 622 5158",
+    "password": "1357",
+    "url": "https://us04web.zoom.us/j/4236225158?pwd=Y0FINWxjOU9YWHBXK2lZNXNRK0dCUT09",
+    "platform": "zoom",
+    "name_normalized": "김형서"
+  },
+  {
+    "name": "박경미",
+    "id": "없음",
+    "password": "없음",
+    "url": "https://meet.google.com/ffy-xpwn-mqi",
+    "platform": "meet",
+    "name_normalized": "박경미"
+  },
+  {
+    "name": "박문향",
+    "id": "없음",
+    "password": "없음",
+    "url": "https://meet.google.com/kpq-dkkh-vap",
+    "platform": "meet",
+    "name_normalized": "박문향"
+  },
+  {
+    "name": "박선미",
+    "id": "693 349 3147",
+    "password": "1111",
+    "url": "https://us04web.zoom.us/j/6933493147?pwd=knNO0ZP2UZZmSPEb9WChkbKQTb9voz.1&omn=",
+    "platform": "zoom",
+    "name_normalized": "박선미"
+  },
+  {
+    "name": "박승민",
+    "id": "222 630 1019",
+    "password": "1111",
+    "url": "https://us05web.zoom.us/j/2226301019?pwd=TnpNNjZ6dWI4NG9WMXF2cGdjRHJHZz09",
+    "platform": "zoom",
+    "name_normalized": "박승민"
+  },
+  {
+    "name": "박은영",
+    "id": "없음",
+    "password": "없음",
+    "url": "https://meet.google.com/kcx-zxwn-rtj",
+    "platform": "meet",
+    "name_normalized": "박은영"
+  },
+  {
+    "name": "박정연",
+    "id": "444 215 2212",
+    "password": "12345",
+    "url": "https://us05web.zoom.us/j/4442152212?pwd=ytUTE39bnpy07yOkeQ5LkYpogWEuwa.1",
+    "platform": "zoom",
+    "name_normalized": "박정연"
+  },
+  {
+    "name": "박정현",
+    "id": "989 988 0514",
+    "password": "1DMKqf",
+    "url": "https://us04web.zoom.us/j/9899880514?pwd=Uo0D36DE5uGca6AaYj8lhS2qFDAXQd.1",
+    "platform": "zoom",
+    "name_normalized": "박정현"
+  },
+  {
+    "name": "박정현",
+    "id": "없음",
+    "password": "없음",
+    "url": "https://meet.google.com/xvt-rqfs-qnh",
+    "platform": "meet",
+    "name_normalized": "박정현"
+  },
+  {
+    "name": "배일환",
+    "id": "874 850 4975",
+    "password": "369121518",
+    "url": "https://us05web.zoom.us/j/8748504975?pwd=NvjaFhbsXJVa85kTaXClaXfgjyxlbS.1",
+    "platform": "zoom",
+    "name_normalized": "배일환"
+  },
+  {
+    "name": "서해영",
+    "id": "530 340 1994",
+    "password": "171717",
+    "url": "https://us05web.zoom.us/j/5303401994?pwd=Efaw4HWxrOTKy1T7w0BfOnjmKfMNyt.1",
+    "platform": "zoom",
+    "name_normalized": "서해영"
+  },
+  {
+    "name": "선은지",
+    "id": "644 509 2504",
+    "password": "j04zuJ",
+    "url": "https://zoom.us/j/6445092504?pwd=wMgPGga4Rl92vhDvIZaSfUPMFKxSqX.1",
+    "platform": "zoom",
+    "name_normalized": "선은지"
+  },
+  {
+    "name": "신민영",
+    "id": "966 6908 7076",
+    "password": "3pvM8F",
+    "url": "https://zoom.us/j/96669087076?pwd=DPxUlaMKwWaAfA8NqwN5rYAMtQwOP4.1",
+    "platform": "zoom",
+    "name_normalized": "신민영"
+  },
+  {
+    "name": "안문경",
+    "id": "711 264 4504",
+    "password": "12345",
+    "url": "https://us04web.zoom.us/j/7112644504?pwd=KOaxqHVj8uMwfRSqfbAFJWuIF5gVvA.1",
+    "platform": "zoom",
+    "name_normalized": "안문경"
+  },
+  {
+    "name": "안현정",
+    "id": "없음",
+    "password": "없음",
+    "url": "https://meet.google.com/fpk-pimf-ggb",
+    "platform": "meet",
+    "name_normalized": "안현정"
+  },
+  {
+    "name": "여주현",
+    "id": "없음",
+    "password": "없음",
+    "url": "https://meet.google.com/gpr-yxhh-cse",
+    "platform": "meet",
+    "name_normalized": "여주현"
+  },
+  {
+    "name": "원종혜",
+    "id": "495 517 5281",
+    "password": "250704",
+    "url": "https://us05web.zoom.us/j/4955175281?pwd=yM53q6YJGZBFp02WplRUBVS7SfL8bl.1",
+    "platform": "zoom",
+    "name_normalized": "원종혜"
+  },
+  {
+    "name": "이경수",
+    "id": "812 876 9404",
+    "password": "q0kM81",
+    "url": "https://zoom.us/j/6625288795?pwd=WFFPcjJhaE1iK3RQTG5LVU1HWmxHQT09",
+    "platform": "zoom",
+    "name_normalized": "이경수"
+  },
+  {
+    "name": "이선희",
+    "id": "468 261 1440",
+    "password": "hello",
+    "url": "https://us05web.zoom.us/j/4682611440?pwd=qGlRjOsjUve8VE6Xtjj1yaO9pGsohP.1",
+    "platform": "zoom",
+    "name_normalized": "이선희"
+  },
+  {
+    "name": "이성현",
+    "id": "없음",
+    "password": "없음",
+    "url": "https://meet.google.com/hvk-iyon-ytn",
+    "platform": "meet",
+    "name_normalized": "이성현"
+  },
+  {
+    "name": "이송희",
+    "id": "607 542 8468",
+    "password": "5ySiJ4",
+    "url": "https://us05web.zoom.us/j/6075428468?pwd=cnyTyMZOtUORVsPaB62F7FB1gbaO5P.1",
+    "platform": "zoom",
+    "name_normalized": "이송희"
+  },
+  {
+    "name": "이인숙",
+    "id": "없음",
+    "password": "없음",
+    "url": "https://meet.google.com/bjg-bsnw-fzi",
+    "platform": "meet",
+    "name_normalized": "이인숙"
+  },
+  {
+    "name": "이정완",
+    "id": "794 294 0648",
+    "password": "1026",
+    "url": "https://us05web.zoom.us/j/7942940648?pwd=35svZdnMFahFVcoQij1XuYzG8OBr3X.1",
+    "platform": "zoom",
+    "name_normalized": "이정완"
+  },
+  {
+    "name": "이종민",
+    "id": "222 656 3219",
+    "password": "88888888",
+    "url": "https://us04web.zoom.us/j/2226563219?pwd=V8hyQN8alYnEieRwaN8U2b83KGrb37.1",
+    "platform": "zoom",
+    "name_normalized": "이종민"
+  },
+  {
+    "name": "이진형",
+    "id": "383 708 8684",
+    "password": "peL1t6",
+    "url": "https://us04web.zoom.us/j/3837088684?pwd=a1M1WnNMYUdBYWt1UlA2ZjdjZm0vZz09",
+    "platform": "zoom",
+    "name_normalized": "이진형"
+  },
+  {
+    "name": "이채윤",
+    "id": "없음",
+    "password": "없음",
+    "url": "https://meet.google.com/jvq-cnqt-sgj",
+    "platform": "meet",
+    "name_normalized": "이채윤"
+  },
+  {
+    "name": "이충미",
+    "id": "833 325 8085",
+    "password": "2025kish!!",
+    "url": "https://us04web.zoom.us/j/8333258085?pwd=NU9ZLlUWZxIlrxkyphpkR8ZTHqV19P.1",
+    "platform": "zoom",
+    "name_normalized": "이충미"
+  },
+  {
+    "name": "이하늘",
+    "id": "985 325 1310",
+    "password": "Y34V2Q",
+    "url": "https://us04web.zoom.us/j/9853251310?pwd=F7kh6rQigyuY6g282r8iY7XiwV4a2x.1",
+    "platform": "zoom",
+    "name_normalized": "이하늘"
+  },
+  {
+    "name": "이환승",
+    "id": "없음",
+    "password": "없음",
+    "url": "https://meet.google.com/mkt-fowi-ebu",
+    "platform": "meet",
+    "name_normalized": "이환승"
+  },
+  {
+    "name": "이훈희",
+    "id": "585 750 6129",
+    "password": "없음",
+    "url": "https://yonsei.zoom.us/my/hunhee",
+    "platform": "zoom",
+    "name_normalized": "이훈희"
+  },
+  {
+    "name": "정미숙",
+    "id": "341 208 9633",
+    "password": "1111",
+    "url": "https://zoom.us/j/3412089633?pwd=zWuNaZsEme4CPGadFgbQ1pmlxGlUY0.1",
+    "platform": "zoom",
+    "name_normalized": "정미숙"
+  },
+  {
+    "name": "정인수",
+    "id": "291 403 0601",
+    "password": "XDS6a7",
+    "url": "https://zoom.us/j/2914030601?pwd=rJaiDuVaF2GzFlOsXXbXcpDH59yf1k.1",
+    "platform": "zoom",
+    "name_normalized": "정인수"
+  },
+  {
+    "name": "정한나",
+    "id": "없음",
+    "password": "344",
+    "url": "https://meet.google.com/aid-hwcn-zed",
+    "platform": "meet",
+    "name_normalized": "정한나"
+  },
+  {
+    "name": "조지용",
+    "id": "705 468 5858",
+    "password": "88888888",
+    "url": "https://us05web.zoom.us/j/7054685858?pwd=VC4uyD6d5rVOW9m2CkHYfIzmax6Vha.1",
+    "platform": "zoom",
+    "name_normalized": "조지용"
+  },
+  {
+    "name": "채추림",
+    "id": "없음",
+    "password": "없음",
+    "url": "https://meet.google.com/cio-fgkj-tmq",
+    "platform": "meet",
+    "name_normalized": "채추림"
+  },
+  {
+    "name": "최경윤",
+    "id": "없음",
+    "password": "없음",
+    "url": "https://meet.google.com/kms-eytp-psb",
+    "platform": "meet",
+    "name_normalized": "최경윤"
+  },
+  {
+    "name": "최경철",
+    "id": "844 524 3700",
+    "password": "2025",
+    "url": "https://us05web.zoom.us/j/8445243700?pwd=SmQ7Fy2InEpW6unq4RHyk38AmlZsXB.1",
+    "platform": "zoom",
+    "name_normalized": "최경철"
+  },
+  {
+    "name": "최은정",
+    "id": "670 191 8085",
+    "password": "9595",
+    "url": "https://us04web.zoom.us/j/6701918085?pwd=aBbTaOzatCHcsSCVm5uKtQbbqskhvd.1",
+    "platform": "zoom",
+    "name_normalized": "최은정"
+  },
+  {
+    "name": "최종호",
+    "id": "682 905 6788",
+    "password": "123456",
+    "url": "https://us04web.zoom.us/j/6829056788?pwd=NUIw25B2SC8lnQbCQ6vTKXEIAwgaOU.1&omn=78",
+    "platform": "zoom",
+    "name_normalized": "최종호"
+  },
+  {
+    "name": "최현정",
+    "id": "662 528 8795",
+    "password": "1",
+    "url": "https://us06web.zoom.us/j/4960105102?pwd=nuOGvb6pzBXMQ9Wni5bxOMUgjcQDoL.1",
+    "platform": "zoom",
+    "name_normalized": "최현정"
+  },
+  {
+    "name": "한수인",
+    "id": "932 674 5133",
+    "password": "102030",
+    "url": "https://us06web.zoom.us/j/9326745133?pwd=Lw5eAPpl2VZOZoFa45AqEgNnFZsPBA.1",
+    "platform": "zoom",
+    "name_normalized": "한수인"
+  },
+  {
+    "name": "한현",
+    "id": "없음",
+    "password": "없음",
+    "url": "https://meet.google.com/avh-qrpd-xzq",
+    "platform": "meet",
+    "name_normalized": "한현"
+  },
+  {
+    "name": "함수진",
+    "id": "330 416 6561",
+    "password": "545162",
+    "url": "https://us05web.zoom.us/j/3304166561?pwd=N0tFS2xjVU5zV3VRaWExVlFmMEJidz09",
+    "platform": "zoom",
+    "name_normalized": "함수진"
+  },
+  {
+    "name": "허예현",
+    "id": "865 007 3091",
+    "password": "111",
+    "url": "https://us04web.zoom.us/j/8650073091?pwd=iV3N4NvJXcWbL2PTbUbWIpJNLTUtDH.1",
+    "platform": "zoom",
+    "name_normalized": "허예현"
+  },
+  {
+    "name": "황은미",
+    "id": "575 268 7397",
+    "password": "0509",
+    "url": "https://zoom.us/j/5752687397?pwd=oF6IG0635B5ix7xguDE38Dbj75VRL3.1",
+    "platform": "zoom",
+    "name_normalized": "황은미"
+  }
+]
