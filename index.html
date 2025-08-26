@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>교사 회의 검색</title>
+  <style>
+    body { font-family: sans-serif; padding: 20px; }
+    input { padding: 8px; width: 250px; }
+    button { padding: 8px; margin-left: 8px; }
+    .result { margin-top: 20px; }
+    table { border-collapse: collapse; margin-top: 10px; }
+    td, th { border: 1px solid #aaa; padding: 8px; }
+  </style>
+</head>
+<body>
+  <h2>교사 회의 검색</h2>
+  <input type="text" id="searchBox" placeholder="이름 입력...">
+  <button onclick="search()">검색</button>
+  
+  <div class="result" id="result"></div>
+
+  <script>
+    async function search() {
+      const name = document.getElementById('searchBox').value.trim();
+      const response = await fetch('data_full.json');
+      const data = await response.json();
+      const found = data.find(item => item.name === name);
+      
+      const resultDiv = document.getElementById('result');
+      if(found) {
+        resultDiv.innerHTML = `
+          <table>
+            <tr><th>이름</th><td>${found.name}</td></tr>
+            <tr><th>회의ID</th><td>${found.id}</td></tr>
+            <tr><th>비밀번호</th><td>${found.password}</td></tr>
+            <tr><th>주소</th><td><a href="${found.url}" target="_blank">${found.url}</a></td></tr>
+          </table>
+        `;
+      } else {
+        resultDiv.innerHTML = "<p>검색 결과 없음</p>";
+      }
+    }
+  </script>
+</body>
+</html>
